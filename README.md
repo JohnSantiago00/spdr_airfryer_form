@@ -44,5 +44,3 @@ Check it out live here:
 3. Run the development server:
    ```bash
    npm run dev
-
-  
