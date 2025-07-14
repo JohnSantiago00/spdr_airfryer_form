@@ -29,7 +29,7 @@ The goal was to build a user-friendly and visually cohesive interest form for a 
 ## 🚀 Live Demo
 
 Check it out live here:  
-[https://your-vercel-app-url.vercel.app](https://spdr-airfryer-form.vercel.app/)
+(https://spdr-airfryer-form.vercel.app/)
 
 ## 🛠 Setup Instructions
 
